@@ -13,7 +13,8 @@
   <name>project-euler</name>
   <description>project euler parent project</description>
   <modules>
-    <module>one</module>
+    <module>euler-utils</module>
+    <module>problems</module>
     <module>benchmark</module>
   </modules>
 </project>

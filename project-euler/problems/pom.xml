@@ -8,7 +8,18 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>mhb.project-euler</groupId>
-  <artifactId>one</artifactId>
+  <artifactId>problems</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <name>one</name>
+  <packaging>pom</packaging>
+  <name>problems</name>
+  <modules>
+    <module>one</module>
+  </modules>
+  <dependencies>
+    <dependency>
+      <groupId>mhb.project-euler</groupId>
+      <artifactId>euler-utils</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
+  </dependencies>
 </project>
