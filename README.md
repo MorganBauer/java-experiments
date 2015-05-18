@@ -1,5 +1,5 @@
 # java-experiments
-
+[![Build Status](https://travis-ci.org/MorganBauer/java-experiments.svg?branch=master)](https://travis-ci.org/MorganBauer/java-experiments)
 
 # release maintenance
 
